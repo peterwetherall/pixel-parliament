@@ -6,7 +6,7 @@ Pixel Parliament was created using the UK Parliament's dataset API: [data.parlia
 Each current Member of Parliament is represented by a "pixel", where the colour of the pixel corresponds to their political party.
 The members can be sorted randomly, by name or by party.
 
-Live demo: [https://peter.ee/show/parliament](https://peter.ee/show/parliament)
+**Demo:** [https://peterwetherall.github.io/pixel-parliament/](https://peterwetherall.github.io/pixel-parliament/)
 
 **Note:** Some of the data displayed is not accurate and not all Twitter/webpage links are working at the time of writing this.
 
